@@ -6,7 +6,7 @@ const mul = (a, b) => {
 
 const res = mul(2, 5);
 console.log(res);
-console.log('from master again 1000');
+console.log('from master again 2300');
 
 
 
