@@ -6,6 +6,6 @@ const mul = (a, b) => {
 
 const res = mul(2, 5);
 console.log(res);
-console.log('hi im a new master text');
+console.log('hi im a new master now');
 
 
